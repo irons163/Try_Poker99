@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="poker_drawable">
+	    
+	    <item>@drawable/sa</item>
+	    <item>@drawable/s2</item>
+	    <item>@drawable/s3</item>
+	    <item>@drawable/s4</item>
+	    <item>@drawable/s5</item>
+	    <item>@drawable/s6</item>
+	    <item>@drawable/s7</item>
+	    <item>@drawable/s8</item>
+	    <item>@drawable/s9</item>
+	    <item>@drawable/s10</item>
+	    <item>@drawable/sj</item>
+	    <item>@drawable/sq</item>
+	    <item>@drawable/sk</item>
+	    
+	    <item>@drawable/ha</item>
+	    <item>@drawable/h2</item>
+	    <item>@drawable/h3</item>
+	    <item>@drawable/h4</item>
+	    <item>@drawable/h5</item>
+	    <item>@drawable/h6</item>
+	    <item>@drawable/h7</item>
+	    <item>@drawable/h8</item>
+	    <item>@drawable/h9</item>
+	    <item>@drawable/h10</item>
+	    <item>@drawable/hj</item>
+	    <item>@drawable/hq</item>
+	    <item>@drawable/hk</item>
+	    
+	    <item>@drawable/da</item>
+	    <item>@drawable/d2</item>
+	    <item>@drawable/d3</item>
+	    <item>@drawable/d4</item>
+	    <item>@drawable/d5</item>
+	    <item>@drawable/d6</item>
+	    <item>@drawable/d7</item>
+	    <item>@drawable/d8</item>
+	    <item>@drawable/d9</item>
+	    <item>@drawable/d10</item>
+	    <item>@drawable/dj</item>
+	    <item>@drawable/dq</item>
+	    <item>@drawable/dk</item>
+	    
+	    <item>@drawable/ca</item>
+	    <item>@drawable/c2</item>
+	    <item>@drawable/c3</item>
+	    <item>@drawable/c4</item>
+	    <item>@drawable/c5</item>
+	    <item>@drawable/c6</item>
+	    <item>@drawable/c7</item>
+	    <item>@drawable/c8</item>
+	    <item>@drawable/c9</item>
+	    <item>@drawable/c10</item>
+	    <item>@drawable/cj</item>
+	    <item>@drawable/cq</item>
+	    <item>@drawable/ck</item>
+	    
+	</integer-array>
+</resources>
